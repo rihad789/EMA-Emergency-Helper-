@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <ProgressBar
+            android:id="@+id/send_sms_progress_dialog"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:theme="@style/colorProgressBar" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/send_sms_progress_dialog"
+            android:gravity="center"
+            android:text="Processing..."
+            android:paddingLeft="10dp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+</RelativeLayout>

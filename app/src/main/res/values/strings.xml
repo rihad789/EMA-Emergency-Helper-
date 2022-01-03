@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EMA</string>
+    <string name="demo_contact_name">Md.Ebna amir foysal</string>
+    <string name="demo_contact_no">Contact No:01735083669</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_phone">Phone</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="save_text">Save</string>
+    <string name="app_setting_text">App Setting</string>
+    <string name="name_text">Name</string>
+    <string name="default_message">Default Message</string>
+    <string name="default_message_text">I am in danger.Please help.Call police.Quick.!!!</string>
+    <string name="other_setting">Other Setting</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="version_number">Version</string>
+    <string name="version_no">1.0 Release 2020 June 28</string>
+    <string name="about_text">About</string>
+    <string name="your_message">Your Message</string>
+    <string name="your_contact_list_is_empty">Your Contact list is empty</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="first_message_in_home">We will Send the Message To Your Contact \n Inclding your Location</string>
+    <string name="seccond_message_in_home">Tap Below To Create and Send SOS \n to your contacts</string>
+    <string name="send_sos">Send SOS</string>
+    <string name="your_name">Your Name</string>
+    <string name="clear">Clear</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
